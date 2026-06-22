@@ -1,0 +1,18 @@
+
+> react-tailwind-css-starter-pack@0.1.0 build
+> react-scripts build
+
+(node:1012) [DEP0176] DeprecationWarning: fs.F_OK is deprecated, use fs.constants.F_OK instead
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Failed to compile.
+
+Attempted import error: 'FreeMode' is not exported from 'swiper' (imported as 'FreeMode').
+
+
